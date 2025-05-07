@@ -1,0 +1,5 @@
+# Ignore CDK output and temporary files
+cdk.out/
+cdk.context.json
+node_modules/
+*.tsbuildinfo
