@@ -3,3 +3,5 @@ cdk.out/
 cdk.context.json
 node_modules/
 *.tsbuildinfo
+# ignore terraform init files
+aws/ec2/.terraform/
